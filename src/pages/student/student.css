@@ -1,0 +1,22 @@
+.student-container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.student-sidebar{
+    width: 20%;
+   
+}
+.student-content{
+    width: 100%;
+    
+}
+.student-content-title{
+    margin-top: 5%;
+    margin-left: 5%;
+    display: flex;
+}
+.student-journeys{
+    margin-top: 6%;
+   
+}

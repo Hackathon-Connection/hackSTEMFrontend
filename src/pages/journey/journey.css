@@ -1,0 +1,13 @@
+.journey-header{
+    margin:5% 5% 5% 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.journey-container{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.modules-container{
+    width: 50%;
+}

@@ -1,0 +1,18 @@
+
+.card-content{
+    background-color: #414770;
+}
+.card-button{
+    width: 6rem;
+    height: 2rem;
+    background-color: white;
+    border-radius: 5%;
+    border: none;
+}
+.card-button:hover{
+    cursor: pointer;
+    color: white;
+    border: solid 0.5px white;
+    background-color:  #414770;
+    
+}

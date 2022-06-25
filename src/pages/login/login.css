@@ -1,0 +1,41 @@
+.page-container{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.login-container{
+    display: flex;
+    margin-top: 6%;
+    width: 70%;
+    height: 75vh;
+}
+.ada-photo{
+    width: 60%;
+    height: 60%;
+    margin-left: 28%;
+    margin-top: 7%;
+}
+.adai-marketing{
+    margin-top: 30%;
+    margin-left: 10%;
+}
+.adai-info{
+    background-color: #414770;
+    width: 50%;
+    border-top-left-radius: 2%;
+    border-bottom-left-radius:2% ;
+}
+.login-form{
+    background-color: #e97558;
+    width: 50%;
+    border-top-right-radius: 2%;
+    border-bottom-right-radius:2% ;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.MuiInputBase-root {
+    background-color: white;
+}

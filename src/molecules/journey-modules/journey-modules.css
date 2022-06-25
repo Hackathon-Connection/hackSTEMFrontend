@@ -1,0 +1,4 @@
+.journey-modules-container{
+    display: flex;
+    flex-wrap: wrap;
+}
